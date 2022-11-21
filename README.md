@@ -8,6 +8,6 @@ Plataforma de vendas utilizando React JS no frontEnd e Java com SpringBoot no Ba
 - Yarn
 - POSTman
 - Twilio
-- Heroku. 
+- Heroku
 
 
