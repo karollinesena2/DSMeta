@@ -4,10 +4,10 @@ Plataforma de vendas utilizando React JS no frontEnd e Java com SpringBoot no Ba
 
 # FERRAMENTAS
 
-VsCode
-Yarn
-POSTman
-Twilio
-Heroku. 
+- VsCode
+- Yarn
+- POSTman
+- Twilio
+- Heroku. 
 
 
